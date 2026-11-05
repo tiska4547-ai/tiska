@@ -1,0 +1,2 @@
+# tiska
+Tugas pyton variable
